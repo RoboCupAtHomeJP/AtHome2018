@@ -4,13 +4,13 @@
 
 ### Standard Platform
 |チームコード|チーム名            			|所属         |
-|:-||:-|:-|
+|:-|:-|:-|
 |AHSP-01|Hibikino-Musashi@Home DSPL   	|九州工業大学   	|
 
 
 ### Open Platform
 |チームコード|チーム名            			|所属         |
-|:-||:-|:-|
+|:-|:-|:-|
 |AHOP-01|Hibikino-Musashi@Home OPL 	|九州工業大学	   |
 |AHOP-02|O.I.T.Trial					|大阪工業大学		|
 
