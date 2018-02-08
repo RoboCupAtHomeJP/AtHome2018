@@ -16,9 +16,9 @@
 
 
 ### Education
-|チームコード|チーム名            			|所属         |
+|チームコード	|チーム名						|所属         |
 |:-|:-|:-|
-||||
+|AHE-01		|SKUBA JR						|Kasetsart University|
 
 ### Simulation
 |チームコード|チーム名            			|所属         |
