@@ -6,6 +6,7 @@
 |チームコード|チーム名            			|所属         |
 |:-|:-|:-|
 |AHSP-01|Hibikino-Musashi@Home DSPL   	|九州工業大学   	|
+|AHSP-02|NICT							|国立研究開発法人　情報通信研究機構|
 
 
 ### Open Platform
@@ -23,6 +24,6 @@
 ### Simulation
 |チームコード|チーム名            			|所属         |
 |:-|:-|:-|
-||||
+|AHSIM-01|NICT								|国立研究開発法人　情報通信研究機構|
 
 
