@@ -7,6 +7,7 @@
 |:-|:-|:-|
 |AHSP-01|Hibikino-Musashi@Home DSPL   	|九州工業大学   	|
 |AHSP-02|NICT							|国立研究開発法人　情報通信研究機構|
+|AHSP-03|kara@ge++        |電気通信大学|
 
 
 ### Open Platform
@@ -14,6 +15,7 @@
 |:-|:-|:-|
 |AHOP-01|Hibikino-Musashi@Home OPL 	|九州工業大学	   |
 |AHOP-02|O.I.T.Trial					|大阪工業大学		|
+|AHOP-03|KUROM                |関西大学 ロボット・マイクロシステム研究室|
 
 
 ### Education
