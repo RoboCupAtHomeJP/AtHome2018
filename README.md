@@ -5,9 +5,9 @@
 ### Standard Platform
 |チームコード|チーム名            			|所属         |
 |:-|:-|:-|
-|AHSP-01|Hibikino-Musashi@Home DSPL   	|九州工業大学   	|
-|AHSP-02|NICT							|国立研究開発法人　情報通信研究機構|
-|AHSP-03|kara@ge++        |電気通信大学|
+|AHDSP-01|Hibikino-Musashi@Home DSPL   	|九州工業大学   	|
+|AHDSP-02|NICT							|国立研究開発法人　情報通信研究機構|
+|AHDSP-03|kara@ge++        |電気通信大学|
 
 
 ### Open Platform
@@ -21,7 +21,7 @@
 ### Education
 |チームコード	|チーム名						|所属         |
 |:-|:-|:-|
-|AHE-01		|SKUBA JR						|Kasetsart University|
+|AHEDU-01		|SKUBA JR						|Kasetsart University|
 
 ### Simulation
 |チームコード|チーム名            			|所属         |
