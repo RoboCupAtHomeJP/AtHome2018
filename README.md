@@ -22,6 +22,7 @@
 |チームコード	|チーム名						|所属         |
 |:-|:-|:-|
 |AHEDU-01		|SKUBA JR						|Kasetsart University|
+|AHEDU-02   |Ri-one & Duckers   |立命館大学            |
 
 ### WRSパートナーロボットチャレンジ
 |チーム名            			|所属         |
