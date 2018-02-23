@@ -8,6 +8,7 @@
 |AHDSP-01|Hibikino-Musashi@Home DSPL   	|九州工業大学   	|
 |AHDSP-02|NICT							|国立研究開発法人　情報通信研究機構|
 |AHDSP-03|kara@ge++        |電気通信大学|
+|AHDSP-04|Girls Art Project|合同会社D.K.T. / 慶応義塾大学/ Harvard University|
 
 
 ### Open Platform
@@ -28,5 +29,6 @@
 |チーム名            			|所属         |
 |:-|:-|
 |NICT								|国立研究開発法人　情報通信研究機構|
+|Girls Art Project  |合同会社D.K.T. / 慶応義塾大学/ Harvard University|
 
 
