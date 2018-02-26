@@ -32,5 +32,6 @@
 |NICT								|国立研究開発法人　情報通信研究機構|
 |Girls Art Project  |合同会社D.K.T. / 慶応義塾大学/ Harvard University|
 |SOBITS             |創価大学|
+|O.I.T.Leo          |大阪工業大学|
 
 
