@@ -9,6 +9,7 @@
 |AHDSP-02|NICT							|国立研究開発法人　情報通信研究機構|
 |AHDSP-03|kara@ge++        |電気通信大学|
 |AHDSP-04|Girls Art Project|合同会社D.K.T. / 慶応義塾大学/ Harvard University|
+|AHDSP-04|大阪工業大学・立命館大学|大阪工業大学・立命館大学|
 
 
 ### Open Platform
@@ -26,6 +27,7 @@
 |AHEDU-01		|SKUBA JR						|Kasetsart University|
 |AHEDU-02   |Ri-one & Duckers   |立命館大学            |
 |AHEDU-03   |SOBITS             |創価大学              |
+|AHEDU-04   |ODENS              |大阪電気通信大学       |
 
 ### WRSパートナーロボットチャレンジ
 |チーム名            			|所属         |
