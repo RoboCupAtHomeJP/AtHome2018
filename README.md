@@ -17,6 +17,7 @@
 |AHOP-01|Hibikino-Musashi@Home OPL 	|九州工業大学	   |
 |AHOP-02|O.I.T.Trial					|大阪工業大学		|
 |AHOP-03|KUROM                |関西大学 ロボット・マイクロシステム研究室|
+|AHOP-04|KIT Happy Robot      |金沢工業大学   |
 
 
 ### Education
