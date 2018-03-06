@@ -8,7 +8,7 @@
 |AHDSP-01|Hibikino-Musashi@Home DSPL   	|九州工業大学   	|
 |AHDSP-02|NICT							|国立研究開発法人　情報通信研究機構|
 |AHDSP-03|kara@ge++        |電気通信大学|
-|AHDSP-04|Girls Art Project|合同会社D.K.T. / 慶応義塾大学/ Harvard University|
+|AHDSP-04|-                |-         |
 |AHDSP-05|大阪工業大学・立命館大学|大阪工業大学・立命館大学|
 |AHDSP-06|Er@sers             |玉川大学|
 
@@ -22,6 +22,8 @@
 |AHOP-04|KIT Happy Robot      |金沢工業大学   |
 |AHOP-05|Ho-Ryu               |九州工業大学   |
 |AHOP-06|KameRider            |Nankai University|
+|AHOP-07|Happy Mini@Girls Art Project |合同会社D.K.T. / 慶応義塾大学/ Harvard University|
+
 
 ### Education
 |チームコード	|チーム名						|所属         |
@@ -36,7 +38,7 @@
 |チーム名            			|所属         |
 |:-|:-|
 |NICT								|国立研究開発法人　情報通信研究機構|
-|Girls Art Project  |合同会社D.K.T. / 慶応義塾大学/ Harvard University|
+|Happy Mini@Girls Art Project  |合同会社D.K.T. / 慶応義塾大学/ Harvard University|
 |SOBITS             |創価大学|
 |O.I.T.Leo          |大阪工業大学|
 |KameRider	        |Nankai University|
