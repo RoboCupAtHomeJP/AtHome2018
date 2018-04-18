@@ -2,7 +2,7 @@
 
 ## 参加チーム
 
-### Standard Platform
+### Demestic Standard Platform
 |チームコード|チーム名            			|所属         |
 |:-|:-|:-|
 |AHDSP-01|Hibikino-Musashi@Home DSPL   	|九州工業大学   	|
