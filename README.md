@@ -49,7 +49,5 @@
 
 [TimeTable.pdf](TimeTable.pdf)
 
-※暫定版なので，今後変更される可能性があります．
-
 ## 名称リスト
 [人物名](name_list.csv)
