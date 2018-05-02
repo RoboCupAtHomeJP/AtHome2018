@@ -47,7 +47,9 @@
 
 ## タスクスケジュール
 
-[TimeTable.pdf](TimeTable.pdf)
+[全体スケジュール](TimeTable.pdf)
+
+[1日目](1stday.pdf)
 
 ## 名称リスト
 [人物名](name_list.csv)
