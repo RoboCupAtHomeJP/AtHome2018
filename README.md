@@ -57,3 +57,9 @@
 [フィールド](field.pdf)
 
 [オブジェクト](objects.pdf)
+
+## Go Get Itの手法公開チーム
+### OPL
+[Hibikino-Musashi@Home](https://github.com/hibikino-musashi-athome/hma_exia_ggi)
+
+
