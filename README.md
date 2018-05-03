@@ -60,6 +60,10 @@
 
 ## Go Get Itの手法公開チーム
 - OPL
-  - [Hibikino-Musashi@Home](https://github.com/hibikino-musashi-athome/hma_exia_ggi)
+  - [Hibikino-Musashi@Home](https://github.com/hibikino-musashi-athome/hma_exia_ggi)
+- DSPL
+  - [Hibikino-Musashi@Home DSPL](https://github.com/hibikino-musashi-athome/hma_hsr_ggi_pkg)
+  - Kara@ge++ ([HP](http://apple.ee.uec.ac.jp/isyslab/digoro/robot.html), [PDF](http://apple.ee.uec.ac.jp/isyslab/digoro/pdf/robot2018unemoto.pdf
+))
 
 
