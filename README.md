@@ -66,5 +66,6 @@
   - [Hibikino-Musashi@Home DSPL](https://github.com/hibikino-musashi-athome/hma_hsr_ggi_pkg)
   - Kara@ge++ ([HP](http://apple.ee.uec.ac.jp/isyslab/digoro/robot.html), [PDF](http://apple.ee.uec.ac.jp/isyslab/digoro/pdf/robot2018unemoto.pdf
 ))
-
-
+  - [OIT&Duckers](https://github.com/EmergentSystemLabStudent/RoboCupJapanOpen2018_dspl_GoGetIt)
+- Education
+  - [Ri-one & Duckers](https://github.com/EmergentSystemLabStudent/RoboCupJapanOpen2018_education_GoGetIt)
