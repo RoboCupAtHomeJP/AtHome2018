@@ -9,7 +9,7 @@
 |AHDSP-02|NICT							|国立研究開発法人　情報通信研究機構|
 |AHDSP-03|kara@ge++        |電気通信大学|
 |AHDSP-04|-                |-         |
-|AHDSP-05|大阪工業大学・立命館大学|大阪工業大学・立命館大学|
+|AHDSP-05|OIT Challenger and Duckers |大阪工業大学・立命館大学|
 |AHDSP-06|Er@sers             |玉川大学|
 
 
