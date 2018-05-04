@@ -69,3 +69,6 @@
   - [OIT&Duckers](https://github.com/EmergentSystemLabStudent/RoboCupJapanOpen2018_dspl_GoGetIt)
 - Education
   - [Ri-one & Duckers](https://github.com/EmergentSystemLabStudent/RoboCupJapanOpen2018_education_GoGetIt)
+
+## Link
+[FaceBook](https://ja-jp.facebook.com/robocupathomejapan/)
